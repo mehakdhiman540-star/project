@@ -30,7 +30,7 @@ class ICICI extends Bank {
     }
 }
 
-public class BankDemo {
+public class BankDemo1 {
 
     public static void main(String[] args) {
 
